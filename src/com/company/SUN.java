@@ -3,7 +3,7 @@ package com.company;
 public class SUN {
 
     String colour;
-    String radius;
+    int radius;
     String temp;
     String lol;
 }
