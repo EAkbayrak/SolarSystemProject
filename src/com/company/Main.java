@@ -9,5 +9,12 @@ public class Main {
         inception.Moon=3;
 
         System.out.println("The basic structure is ready");
+
+        SUN d = new SUN();
+
+        d.radius = 212312312;
+        d.colour = "red";
+        d.temp = "very hot";
+        d.lol = "lollol";
     }
 }
