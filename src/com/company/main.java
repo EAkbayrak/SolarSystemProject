@@ -2,7 +2,6 @@ package com.company;
 
 public class main {
     public static void main(String[] args) {
-        System.out.println();
 
         SUN gunes = new SUN();
         gunes.colour = "Red";
