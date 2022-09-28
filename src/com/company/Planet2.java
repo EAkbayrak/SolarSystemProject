@@ -1,7 +1,6 @@
 package com.company;
 
-public class SUN {
-
+public class Planet2 {
     String colour;
     int radius;
     String temp;
