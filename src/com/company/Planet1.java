@@ -1,6 +1,6 @@
 package com.company;
 
-public class SUN {
+public class Planet1 {
 
     String colour;
     int radius;
